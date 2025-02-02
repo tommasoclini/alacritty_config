@@ -2,7 +2,7 @@
 size = 17.0
 
 [font.normal]
-family = "Cascadia Code NF"
+family = "JetBrains Mono"
 
 [window]
 opacity = 0.8
