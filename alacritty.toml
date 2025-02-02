@@ -6,3 +6,8 @@ family = "JetBrains Mono"
 
 [window]
 opacity = 0.8
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/one_dark.toml"
+]
